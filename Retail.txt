@@ -1,0 +1,10 @@
+This particular dataset is of the retail shops,where we have distinguished the regions with some numbers.
+Our role is to make reports on the transactions,what are the inferences that we can make so that the shops can manage their assets,make some 
+graphical representation on the data set for the ease of the owners.
+
+Also ,sort the data in a particular way where a non data science background can be able to understand with ease.
+
+If possible make predictions so that the owners can make some future assumptions,which can make business profitable,or they can find a way to 
+tackle the situation.
+
+This particular case study is a well designed dataset for the practice. 
